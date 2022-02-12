@@ -6,6 +6,7 @@ you can create your own svgs and icons here: https://icoconvert.com/
 
  for png you need 192 and 512 square image.
  
+<img width="1143" alt="Screenshot 2022-02-12 at 7 42 49 PM" src="https://user-images.githubusercontent.com/81912588/153709964-5d1f3962-4f5e-4e6f-9460-fdee40ed0419.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -20,11 +21,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
