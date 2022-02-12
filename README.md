@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# A simple page called FlyingGG Created with React App
+
+you can create your own svgs and icons here: https://icoconvert.com/ 
+ for .ico file you need: 
+ 64x64 32x32 24x24 16x16
+
+ for png you need 192 and 512 square image.
+ 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
